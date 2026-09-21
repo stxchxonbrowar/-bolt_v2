@@ -13,3 +13,14 @@ Today I prepared my Github repository for further work. I have also created a ba
 ![starting in CAD](images/07.09.2026_CAD.png)
 
 **Total time spent: 2.33 hours**
+
+---
+
+# September 21: Walls plus base
+
+During this session I finished creating the raw stage of walls and made mounting holes for them in the base.
+
+![walls view](images/21.09.2026_walls.png)
+![base view](images/21.09.2026_base_holes.png)
+
+***Total time spent: 0.66 hours***
