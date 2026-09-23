@@ -24,3 +24,14 @@ During this session I finished creating the raw stage of walls and made mounting
 ![base view](images/21.09.2026_base_holes.png)
 
 ***Total time spent: 0.66 hours***
+
+---
+
+# September 23: Walls v2  bmwshot
+
+This time I made some cosmetic changes to the walls and created holes for motors shafts.
+
+![back wall shot](images/bmwshot.png)
+![walls from above shot](images/upwallshot.png)
+
+***Total time spent: 0.92 hours***
