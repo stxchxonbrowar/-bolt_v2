@@ -41,7 +41,7 @@ This time I made some cosmetic changes to the walls and created holes for motors
 # September 28: Walls v2  bmwshot
 
 Today I started working on plow module holder. Had to make a small modifications to the base(holes for screws) and in sidewalls.
-![back wall shot](images/28.09.2026_plow holder.png)
-![walls from above shot](images/28.09.2026_sidewallmod.png)
+![plow holder](28.09.2026_plow_holder)
+![modified sidewall](images/28.09.2026_sidewallmod.png)
 
 ***Total time spent: 1 hour***
