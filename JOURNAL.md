@@ -38,7 +38,7 @@ This time I made some cosmetic changes to the walls and created holes for motors
 
 ---
 
-# September 27: Making plow assembly holder and dome holes...
+# September 27: Making plow assembly holder and some holes...
 
 Today I started working on plow assembly holder. Had to make a small modifications to the base(holes for screws) and in sidewalls.
 ![plow holder](images/27.09.2026_plow_holder.png)
